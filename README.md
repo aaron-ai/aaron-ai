@@ -30,6 +30,9 @@ I am Aaron Ai, which is a programmer living in Hangzhou. I am doing development 
 <img title="CentOS" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061641671.png" width="42" height="42" />
 <img title="Windows" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061643723.png" width="48" height="48" />
 <img title="Raspberry Pi" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061630419.png" width="48" height="48" />
+<img title="Alibaba Cloud" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061648175.png" width="48" height="48" />
+<img title="Google Cloud" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061649023.png" width="48" height="48" />
+<img title="Jira" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061654975.png" width="42" height="42" />
 </p>
 <!-- 
 ## Activity
