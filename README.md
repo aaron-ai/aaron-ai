@@ -11,7 +11,8 @@ I am Aaron Ai, which is a programmer living in Hangzhou. I am doing development 
 <img title="CSS3" alt="CSS3" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061309229.png" width="48" height="48" />
 <img title="Git" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061326511.png" width="48" height="48" />
 <img title="Gitlab" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061327338.png" width="48" height="48" />
-<!-- <img title="GraalVM" alt="Java" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061436559.png" height="48" /> -->
+<img title="Bazel" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061450509.png" width="48" height="48" />
+<img title="Nuget" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061453671.png" width="48" height="48" />
 <img title="OpenTelemetry" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061342382.png" width="40" height="40" />
 <img title="Prometheus" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061328494.png" width="48" height="48" />
 <img title="Grafana" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061435121.png" width="48" height="48" />
