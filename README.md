@@ -25,8 +25,9 @@ I am Aaron Ai, which is a programmer living in Hangzhou. I am doing development 
 <img title="RocketMQ" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061338810.png" width="48" height="48" />
 <img title="Redis" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061417881.png" width="48" height="48" />
 <img title="JetBrains" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061432653.png" width="48" height="48" />
-<img title="VSCode" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061433813.png" width="48" height="48" />
+<img title="VSCode" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203062157281.png" width="48" height="48" />
 <img title="Ubuntu" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061639804.png" width="42" height="42" />
+<img title="Ubuntu" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203062151170.png" height="45" />
 <img title="CentOS" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061641671.png" width="42" height="42" />
 <img title="Windows" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061643723.png" width="48" height="48" />
 <img title="Raspberry Pi" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061630419.png" width="48" height="48" />
