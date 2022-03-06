@@ -18,5 +18,4 @@
 </p>
 
 
-<!-- https://github.com/DenverCoder1 -->
-<!-- https://github.com/wanghao221 -->
+<!-- https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
