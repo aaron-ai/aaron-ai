@@ -25,9 +25,9 @@ I am Aaron Ai, which is a programmer living in Hangzhou. I am doing development 
 <img title="JetBrains" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061432653.png" width="48" height="48" />
 <img title="VSCode" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061433813.png" width="48" height="48" />
 </p>
-
+<!-- 
 ## Activity
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaron-ai&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaron-ai&theme=github_dark) -->
 
 <!-- https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
