@@ -1,5 +1,5 @@
 ## Fancy seeing you here! 👋
-I am Aaron Ai, which is a programmer living in Hangzhou. I am doing development work related to message queues. If you are interested in my work, please contact me by email.
+I am Aaron Ai, which is a programmer living in Hangzhou. I am doing development work related to message queues. If you are interested in my work, please contact me by [email](mailto:yangkun.ayk@gmail.com).
 
 ## 💻 Technologies
 <!-- ### Language -->
