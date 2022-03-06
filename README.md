@@ -1,4 +1,4 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Fancy seeing you here! 👋
 I am Aaron Ai, which is a programmer living in Hangzhou. I am doing development work related to message queues. If you are interested in my work, please contact me by email.
 
 ## 💻 Technologies
