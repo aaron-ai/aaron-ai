@@ -1,7 +1,11 @@
 ## Fancy seeing you here! 👋
-I am Aaron Ai, which is a programmer living in Hangzhou. I am doing development work related to message queues. If you are interested in my works, please contact me by [Email](mailto:yangkun.ayk@gmail.com).
+👨‍💻 A programmer living in Hangzhou.
 
-## 💻 Technologies
+🌱 I am doing development work related to message queues.
+
+📩 Please contact me by [Email](mailto:yangkun.ayk@gmail.com) if you are interested in my works, 
+
+## Technologies 💻
 <p align="center">
 <img title="Java" alt="Java" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061259295.png" width="48" height="48" />
 <img title="C++" alt="C++" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061301914.png" width="48" height="48" />
