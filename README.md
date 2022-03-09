@@ -1,9 +1,9 @@
 ## Fancy seeing you here! 👋
 👨‍💻 A programmer living in Hangzhou.
 
-🌱 I am doing development work related to message queues.
+🌱 I am doing development works related to message queues.
 
-📩 Please contact me by [Email](mailto:yangkun.ayk@gmail.com) if you are interested in my works, 
+📩 Please contact me by [Email](mailto:yangkun.ayk@gmail.com) if you are interested in my works.
 
 ## Technologies 💻
 <p align="center">
