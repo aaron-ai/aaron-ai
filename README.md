@@ -1,9 +1,13 @@
 ## Fancy seeing you here! 👋
-👨‍💻 A programmer living in Hangzhou.
+Greetings, I'm Aaron from Hangzhou. I am an active contributor and community member in several open-source projects and communities, including RocketMQ, OpenTelemetry, gRPC, and Envoy. 🌍🔭🚀
 
-👉 [Here](https://aaron-ai.com) is my personal website.
+I am passionate about cloud-native technologies, message queue systems, and observability, and actively contribute to the development of these fields. 🌟🔍📈
 
-📩 Please contact me by [Email](mailto:yangkun.ayk@gmail.com) if you are interested in my works.
+I enjoy exploring new technologies and contributing to popular open-source projects. If you're interested in my work, please feel free to contact me via email at yangkun.ayk@gmail.com. I'm always happy to discuss the latest open-source technologies and industry trends with you, and work together to drive the progress and development of technology. 💬💡🤝
+
+You can also find more information about me and my work on my personal website, https://aaron-ai.com. 🌐💻🔬
+
+Thank you! 😊
 
 ## Technologies 💻
 <p align="center">
