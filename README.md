@@ -5,8 +5,6 @@ I am passionate about cloud-native technologies, message queue systems, and obse
 
 I enjoy exploring new technologies and contributing to popular open-source projects. If you're interested in my work, please feel free to contact me via email at yangkun.ayk@gmail.com. I'm always happy to discuss the latest open-source technologies and industry trends with you, and work together to drive the progress and development of technology. 💬💡🤝
 
-You can also find more information about me and my work on my personal website, https://aaron-ai.com. 🌐💻🔬
-
 Thank you! 😊
 
 ## Technologies 💻
