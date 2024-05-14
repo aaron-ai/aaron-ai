@@ -3,7 +3,7 @@ Greetings, I'm Aaron from Hangzhou. I am an active contributor and community mem
 
 I am passionate about cloud-native technologies, message queue systems, and observability, and actively contribute to the development of these fields. 🌟🔍📈
 
-I enjoy exploring new technologies and contributing to popular open-source projects. If you're interested in my work, please feel free to contact me via email at aaron-ai@apache.com. I'm always happy to discuss the latest open-source technologies and industry trends with you, and work together to drive the progress and development of technology. 💬💡🤝
+I enjoy exploring new technologies and contributing to popular open-source projects. If you're interested in my work, please feel free to contact me via email at aaronai@apache.com. I'm always happy to discuss the latest open-source technologies and industry trends with you, and work together to drive the progress and development of technology. 💬💡🤝
 
 Thank you! 😊
 
