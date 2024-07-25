@@ -11,7 +11,7 @@ Thank you! 😊
 <p align="center">
 <img title="Java" alt="Java" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061259295.png" width="48" height="48" />
 <img title="C++" alt="C++" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061301914.png" width="48" height="48" />
-<img title="Golang" alt="Golang" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061259296.png" width="125" height="42" />
+<img title="Golang" alt="Golang" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061259299.png" width="48" height="48" />
 <img title="Python" alt="Python" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061302094.png" width="48" height="48" />
 <img title="C#" alt="C++" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061313869.png" width="48" height="48" />
 <img title="HTML5" alt="HTML5" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061307882.png" width="48" height="48" />
