@@ -7,7 +7,7 @@ I enjoy exploring new technologies and contributing to popular open-source proje
 
 Thank you! 😊
 
-## Technologies 💻
+<!-- ## Technologies 💻
 <p align="center">
 <img title="Java" alt="Java" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061259295.png" width="48" height="48" />
 <img title="C++" alt="C++" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061301914.png" width="48" height="48" />
@@ -41,7 +41,7 @@ Thank you! 😊
 <img title="Alibaba Cloud" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061648175.png" width="48" height="48" />
 <img title="Google Cloud" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061649023.png" width="48" height="48" />
 <img title="Jira" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061654975.png" width="42" height="42" />
-</p>
+</p> -->
 <!-- 
 ## Activity
 
